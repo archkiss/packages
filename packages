@@ -3,9 +3,16 @@ base
 base-devel
 bash-completion
 binutils
-bluetooth-support
+bluetooth-autoconnect
+bluez  
+bluez-hid2hci
+bluez-libs
+bluez-plugins
+bluez-tools
+bluez-utils                  
 btrfs-progs
 cpupower
+cups
 curl
 diffutils
 dkms
@@ -63,7 +70,6 @@ pipewire-pulse
 pipewire-zeroconf
 plasma-meta
 plasma-wayland-session
-printer-support
 pv
 reflector
 rng-tools
