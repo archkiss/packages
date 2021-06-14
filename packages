@@ -35,6 +35,7 @@ git
 grep
 grml-zsh-config
 gst-plugin-pipewire
+gst-plugin-pipewire
 htop
 i2c-tools
 intel-ucode
@@ -71,10 +72,12 @@ pipewire-zeroconf
 plasma-meta
 plasma-wayland-session
 pv
+realtime-privileges
 reflector
 rng-tools
 signal-desktop
 smartmontools
+sof-firmware
 speedtest-cli
 stress
 systemd-swap
@@ -88,4 +91,5 @@ usbutils
 util-linux
 vim
 wget
+wireplumber
 yarn
