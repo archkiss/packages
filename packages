@@ -3,7 +3,6 @@ base
 base-devel
 bash-completion
 binutils
-bluetooth-autoconnect
 bluez  
 bluez-hid2hci
 bluez-libs
