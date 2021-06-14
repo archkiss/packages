@@ -71,6 +71,7 @@ pipewire-zeroconf
 plasma-meta
 plasma-wayland-session
 pv
+quota-tools
 realtime-privileges
 reflector
 rng-tools
