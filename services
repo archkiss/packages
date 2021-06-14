@@ -1,3 +1,4 @@
+avahi-daemon.socket
 bluetooth.service
 cpupower.service
 cups.socket
