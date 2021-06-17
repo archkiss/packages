@@ -3,6 +3,7 @@ avahi-daemon.socket
 bluetooth.service
 cpupower.service
 cups.socket
+dbus-broker.service
 fstrim.timer
 irqbalance.service
 iwd.service
