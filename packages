@@ -36,12 +36,10 @@ git
 grep
 grml-zsh-config
 gst-plugin-pipewire
-gst-plugin-pipewire
 htop
 i2c-tools
 intel-ucode
 iperf3
-irqbalance
 irqbalance
 iwd
 kde-applications-meta
